@@ -4,7 +4,7 @@
 
 ## Installation
 
-To install the application, simply download the JAR archive [`huffmanviewer.jar`](https://github.com/RodHowell-Algorithms/Huffman-Tree-Viewer/raw/main/minAVL.jar). The [Java<sup>TM</sup> SE Runtime Environment (JRE)](https://java.com) is required to run the heap viewer.
+To install the application, simply download the JAR archive [`huffmanviewer.jar`](https://github.com/RodHowell-Algorithms/Huffman-Tree-Viewer/raw/main/huffmanviewer.jar). The [Java<sup>TM</sup> SE Runtime Environment (JRE)](https://java.com) is required to run the heap viewer.
 
 ## Usage
 
