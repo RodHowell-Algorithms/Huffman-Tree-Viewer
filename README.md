@@ -41,7 +41,7 @@ java -cp .;one-jar/lib/viewer.jar edu.ksu.cis.huffmanCodes.Driver
 
 ## Creating the JAR Archive
 
-To create a JAR archive, you will first need to create an archive containing just the package **edu.ksu.cis.minAVL**. Because the command is rather long, the files `options.txt` and `Manifest.txt` have been provided to shorten it:
+To create a JAR archive, you will first need to create an archive containing just the package **edu.ksu.cis.huffmanCodes**. Because the command is rather long, the files `options.txt` and `Manifest.txt` have been provided to shorten it:
 
 <pre>
 jar -c -f huffmanviewer-only.jar @options.txt edu/ksu.cis/huffmanCodes/*.class
